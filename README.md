@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Mikox0
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning lua and java
+- 🌱 I’m currently learning lua and javascript
 - 📫 How to reach me:
   - Discord: .mikox
 
