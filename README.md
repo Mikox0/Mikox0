@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning lua and javascript
 - 💻 I’m currently working on FiveM and Minecraft servers
 - 📫 How to reach me:
-<br>
+
 <br>[![](https://dcbadge.limes.pink/api/shield/707880078553645127)
 <br>[![](https://dcbadge.limes.pink/api/server/x9jXQDrJx4)](https://discord.gg/x9jXQDrJx4)
 
