@@ -10,7 +10,7 @@
 [![](https://dcbadge.limes.pink/api/server/x9jXQDrJx4)](https://discord.gg/x9jXQDrJx4)
 
 <!---[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikox0&repo=mx_carthief)](https://github.com/Mikox0/mx_carthief)--->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikox0&repo=Mikox0)](https://github.com/Mikox0/Mikox0)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Mikox0&repo=Mikox0)](https://github.com/Mikox0/Mikox0)
 
 <!---
 Mikox0/Mikox0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
