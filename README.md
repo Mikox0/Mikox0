@@ -9,8 +9,8 @@
 <br>![](https://dcbadge.limes.pink/api/shield/707880078553645127?theme=discord-inverted?logoColor=presence)
 [![](https://dcbadge.limes.pink/api/server/x9jXQDrJx4)](https://discord.gg/x9jXQDrJx4)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/Mikox0/mx_carthief)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/Mikox0/mx_carthief)
 
 <!---
 Mikox0/Mikox0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
