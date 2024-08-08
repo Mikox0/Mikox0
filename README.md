@@ -1,4 +1,4 @@
-# HELLO!
+# print("Hello world!")
 
 - 👋 Hi, I’m @Mikox0
 - 👀 I’m interested in programming
