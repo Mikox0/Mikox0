@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @Mikox0
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning **.lua**, **.js** and **.css**
-- 💻 I’m currently working on FiveM and Minecraft servers
+- 🌱 I’m currently learning **.py**, **.lua**, **.js** and **.css**
+- 💻 I’m currently working on FiveM and Minecraft servers and Indie games
 - 📫 How to reach me:
 
 <br>![](https://dcbadge.limes.pink/api/shield/707880078553645127?theme=discord-inverted?logoColor=presence)
