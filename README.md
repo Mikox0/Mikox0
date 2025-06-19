@@ -28,5 +28,4 @@
 </p>
 
 ### Reach me here:
-
-<br>![](https://dcbadge.limes.pink/api/shield/707880078553645127?theme=discord-inverted?logoColor=presence)
+![](https://dcbadge.limes.pink/api/shield/707880078553645127?theme=discord-inverted?logoColor=presence)
