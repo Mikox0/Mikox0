@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=lua,python,java,html,css,javascript,mysql"
+      src="https://go-skill-icons.vercel.app/api/icons?i=lua,python,cs,java,html,css,javascript,mysql"
     />
   </a>
 </p>
@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vscode,mariadb,proxmox,gimp,ubuntu,cloudflare,pycharm,fabricmc,ollama"
+      src="https://go-skill-icons.vercel.app/api/icons?i=vscode,mariadb,proxmox,gimp,unity,ubuntu,cloudflare,pycharm,fabricmc,ollama"
     />
   </a>
 </p>
