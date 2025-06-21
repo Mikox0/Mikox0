@@ -1,9 +1,9 @@
 # print("Hello world!")
 
 - 👋 Hi, I’m @Mikox0
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning **.py**, **.lua**, **.js** and **.css**
-- 💻 I’m currently working on FiveM and Minecraft servers and Indie games
+- 👀 I’m interested in programming and Indie game development
+- 🌱 I’m currently learning **.cs** and **Aseprite**<!--**.py**, **.lua**, **.js** and **.css**-->
+- 💻 I’m currently working on FiveM, Minecraft servers and Indie game
 <!-- - 📫 How to reach me: -->
 
 <!---[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikox0&repo=mx_carthief)](https://github.com/Mikox0/mx_carthief)--->
