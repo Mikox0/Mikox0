@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Mikox0
 - 👀 I’m interested in programming and Indie game development
-- 🌱 I’m currently learning **.gd** and **Aseprite**<!--**.py**, **.lua**, **.js** and **.css**-->
+- 🌱 I’m currently learning **Godot**, **GDScript** and **Aseprite**<!--**.py**, **.lua**, **.js** and **.css**-->
 - 💻 I’m currently working on FiveM, Minecraft servers and Indie game
 <!-- - 📫 How to reach me: -->
 
@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=lua,python,cs,java,html,css,javascript,mysql,gd"
+      src="https://go-skill-icons.vercel.app/api/icons?i=lua,python,cs,java,html,css,javascript,mysql"
     />
   </a>
 </p>
@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vscode,mariadb,proxmox,gimp,unity,ubuntu,cloudflare,pycharm,fabricmc,ollama"
+      src="https://go-skill-icons.vercel.app/api/icons?i=vscode,mariadb,proxmox,gimp,unity,godot,ubuntu,cloudflare,pycharm,fabricmc,ollama"
     />
   </a>
 </p>
