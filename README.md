@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vscode,mariadb,proxmox,gimp,unity,godot,ubuntu,cloudflare,pycharm,fabricmc,ollama"
+      src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,mariadb,proxmox,gimp,unity,godot,ubuntu,cloudflare,pycharm,fabricmc,ollama"
     />
   </a>
 </p>
