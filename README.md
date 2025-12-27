@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Mikox0
 - 👀 I’m interested in programming and Indie game development.
-- 🌱 I’m currently learning **java** and **Aseprite**.<!--**.py**, **.lua**, **.js** and **.css**-->
+- 🌱 I’m currently learning **lua** and **python**.<!--**.py**, **.lua**, **.js** and **.css**-->
 - 💻 I’m currently working on a Minecraft server.<!--FiveM, Minecraft servers and Indie game-->
 <!-- - 📫 How to reach me: -->
 
