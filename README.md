@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Mikox0
 - 👀 I’m interested in programming and project managaging.
 - 🌱 I’m currently learning **lua** and **python**.<!--**.py**, **.lua**, **.js** and **.css**-->
-- 💻 I’m currently working on a Minecraft server.<!--FiveM, Minecraft servers and Indie game-->
+- 💻 I’m currently working on a Roblox game.<!--FiveM, Minecraft servers and Indie game-->
 <!-- - 📫 How to reach me: -->
 
 <!---[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mikox0&repo=mx_carthief)](https://github.com/Mikox0/mx_carthief)--->
