@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Mikox0
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning **lua** and **python**.<!--**.py**, **.lua**, **.js** and **.css**-->
+- 🌱 I’m currently learning **lua**, **C** and **python**.<!--**.py**, **.lua**, **.js** and **.css**-->
 - 💻 I’m currently working on a Roblox game.<!--FiveM, Minecraft servers and Indie game-->
 <!-- - 📫 How to reach me: -->
 
